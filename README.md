@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Svelte, Typescript**
 
-- 👨‍💻 My personal website is [faizanahmed.in](faizanahmed.in)
+- 👨‍💻 My personal website is [faizanahmed.in](https://faizansaiyed.vercel.app/)
 
 - 📫 How to reach me **saiyed.faizanahmed1@gmail.com**
 
