@@ -94,5 +94,3 @@
 
 ---
 
-### ⚡ One Line Summary
-**Frontend Engineer grinding DSA to break into a top product-based company 🚀**
