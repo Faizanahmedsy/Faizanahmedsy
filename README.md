@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faizan Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Faizan</h1>
 <h3 align="center">Frontend Developer | React & Next.js Specialist | Aspiring Product-Based Engineer</h3>
 
 <p align="left"> 
