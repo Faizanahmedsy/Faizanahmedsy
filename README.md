@@ -8,19 +8,18 @@
 ---
 
 ### 🚀 About Me
-- 💼 Frontend Developer with **2.8+ years of real-world industry experience**
+- 💼 Frontend Developer with **2.9+ years of real-world industry experience**
 - 🧑‍💻 Working full-time while pursuing **B.Tech IT (8th Semester)**
 - 🏗️ Built **20+ production-level projects**
-- 📚 Currently focusing on **DSA + System Thinking**
-- ⚡ Passionate about **Programming, Education & Personal Growth**
+- 📚 Currently focusing on **DSA**
+- ⚡ Passionate about **Programming, Consumer Electronics and Education**
 
 ---
 
 ### 🌱 Currently Learning
 - **Data Structures & Algorithms**
 - **Advanced Frontend Architecture**
-- **TypeScript, Svelte (Exploring)**
-- Planning to learn: **Go**
+- **TypeScript, Svelte, Go (Exploring)**
 
 ---
 
