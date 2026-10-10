@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://faizansaiyed.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/faizanahmed-saiyed/">LinkedIn</a> ·
-  <a href="mailto:saiyed.faizanahmed1@gmail.com">Email</a>
+  <a href="mailto:faizansy17@gmail.com">Email</a>
 </p>
 
 ---
@@ -58,7 +58,7 @@ I'm interested in Frontend Engineer, Software Engineer, and Forward Deployed Eng
 
 - Portfolio: [faizansaiyed.vercel.app](https://faizansaiyed.vercel.app/)
 - LinkedIn: [linkedin.com/in/faizanahmed-saiyed](https://www.linkedin.com/in/faizanahmed-saiyed/)
-- Email: [saiyed.faizanahmed1@gmail.com](mailto:saiyed.faizanahmed1@gmail.com)
+- Email: [faizansy17@gmail.com](mailto:faizansy17@gmail.com)
 
 ---
 
