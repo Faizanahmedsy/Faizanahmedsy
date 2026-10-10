@@ -1,95 +1,73 @@
-<h1 align="center">Hi 👋, I'm Faizan</h1>
-<h3 align="center">Software engineer - Frontend | React js | Next.js |  Three js</h3>
+<h1 align="center">Hi, I'm Faizan Ahmed 👋</h1>
+<h3 align="center">Software Engineer | Frontend, Full-Stack & GenAI</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=faizanahmedsy&label=Profile%20views&color=0e75b6&style=flat" alt="faizanahmedsy" /> 
+<p align="center">I build polished web experiences and practical AI-powered products.</p>
+
+<p align="center">
+  <a href="https://faizansaiyed.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/faizanahmed-saiyed/">LinkedIn</a> ·
+  <a href="mailto:saiyed.faizanahmed1@gmail.com">Email</a>
 </p>
 
 ---
 
-### 🚀 About Me
-- 💼 Frontend Developer with **2.9+ years of real-world industry experience**
-- 🧑‍💻 Working full-time while pursuing **B.Tech IT (8th Semester)**
-- 🏗️ Built **20+ production-level projects**
-- 📚 Currently focusing on **DSA**
-- ⚡ Passionate about **Programming, Consumer Electronics and Education**
+## 👨‍💻 About Me
+
+I'm a Software Engineer based in Ahmedabad, India, with 3+ years of professional experience building and shipping software.
+
+My strongest area is frontend engineering with React, Next.js, and TypeScript. I also work across backend APIs and AI-enabled features, which helps me take ideas from interface to implementation.
+
+- 🧩 Build responsive, maintainable applications with React, Next.js, and TypeScript.
+- 🤖 Develop AI-powered features using Python, FastAPI, LangChain, and RAG.
+- 🔌 Work with APIs, databases, authentication, and backend services.
+- 🤝 Enjoy collaborating with teams and mentoring developers.
+- 🎓 B.Tech in Information Technology, Silver Oak University.
+
+I'm interested in Frontend Engineer, Software Engineer, and Forward Deployed Engineer (FDE) roles where I can combine product thinking, engineering, and AI.
 
 ---
 
-### 🌱 Currently Learning
-- **Data Structures & Algorithms**
-- **Advanced Frontend Architecture**
-- **TypeScript, Svelte, Go (Exploring)**
+## 🛠️ Tech Stack
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux" alt="Frontend skills: React, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux" />
+
+**Backend, Data & AI**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,postgres,mongodb,redis" alt="Backend skills: Node.js, NestJS, Python, FastAPI, PostgreSQL, MongoDB, Redis" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vercel" alt="Tools: Git, GitHub, Docker, AWS, Postman, Vercel" />
+
+**AI Engineering:** LangChain · Retrieval-Augmented Generation (RAG) · LLM integrations
 
 ---
 
-### 🌐 Portfolio & Reach Me
-- 👨‍💻 Website: **https://faizansaiyed.vercel.app/**
-- 📫 Email: **saiyed.faizanahmed1@gmail.com**
-- 📄 LinkedIn: **https://www.linkedin.com/in/faizanahmed-saiyed/**
+## 🚀 What I Focus On
+
+- **Frontend engineering:** Component architecture, state management, data fetching, performance, and accessible UI.
+- **End-to-end delivery:** Connecting frontend applications to APIs, databases, and authentication flows.
+- **AI product development:** Turning LLM capabilities into useful product features.
+- **Engineering quality:** Maintainable code, testing, clear documentation, and practical trade-offs.
 
 ---
 
-<h3 align="left">🤝 Connect with Me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/faizanahmed-saiyed/" target="blank">
-    <img align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      height="30" width="40" />
-  </a>
+## 🌐 Find Me Online
+
+- Portfolio: [faizansaiyed.vercel.app](https://faizansaiyed.vercel.app/)
+- LinkedIn: [linkedin.com/in/faizanahmed-saiyed](https://www.linkedin.com/in/faizanahmed-saiyed/)
+- Email: [saiyed.faizanahmed1@gmail.com](mailto:saiyed.faizanahmed1@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizanahmedsy&show_icons=true&hide_title=true&rank_icon=github" alt="GitHub statistics" />
 </p>
 
----
-
-<h3 align="left">🚀 Languages & Tools:</h3>
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  </a> 
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  </a> 
-  <a href="https://redux.js.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-  </a> 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  </a> 
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  </a> 
-  <a href="https://svelte.dev" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="40" height="40"/>
-  </a> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizanahmedsy&layout=compact&hide_title=true" alt="Most used languages" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizanahmedsy&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faizanahmedsy&show_icons=true&locale=en" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizanahmedsy" />
-</p>
-
----
-
+<p align="center"><i>Always learning, building, and improving.</i></p>
